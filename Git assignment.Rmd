@@ -1,0 +1,29 @@
+---
+title: "Git assignment"
+output: html_document
+---
+
+Week 1:
+    -Week one, I learned how to load in data into an rmd file and code         chunks    
+    -Week one, I also learned how to knit a file and create a code chunk.
+Week 2:
+    -Week two, I learned about the library ggplot. I inserted the library     by utsing "library(ggplot)" which is what helps us visually            understand data. 
+    -Week two, I also learned about normalization. We perform whatever     calculation we want, and then after, wrote '.normalized
+Week 3:
+    -Week three I learned about linear regression. I learned that linear regression is a go-to statistical modeling method, and it contains built-in diagnostics and that they have overly large coefficient magnitudes.
+    -I also learned about box-plots and how to build such models. It's a distribution model that varies by class. 
+Week 4:
+    -Week four I learned about confusion matrices and precision. THe precision formula is TP/TP+FP which is true positives divided by True Positives plus False Positives. If we could have 100% accuracy, we would make one single positive prediction.
+    -This week I also learned about F1 Score. THe equation for this is F1 = 2 ((precision x recall) / (precision + recall)). F1 scores favor classifiers that have similar precision and recall. 
+Week 5:
+    -This week I learned about poisson regression which is a discreet probability distribution that expresses the probability of a given number of events occuring in a specific period of time/space. This happens when there is a known constant mean rate.
+    -This week I also learned about gamma regression.This models a skewed variable that has one or more independent variables.
+Week 6:
+    -This week I learned about decision trees. It mean or mode, and we reduce the mean square errors. It's simpler to explain than with a linear regression model and are great for categorical predictors. 
+    -I also learned about random forests. With random forests, we use random samples of the training set and generate N different bootstrapped training data sets. they are more efficient tha  bagging trees and use random predictors.
+Week 7:
+    -In week 7, I learned about Supervised learning with k-means. I learned that it only has features. It uses classification tp predict categorial problems. We have all the values and know what the end result should look like
+    -I also learned about unsupervised learning. With this we are analyzing clusters od data. We train unlabeled data and use this to predict an outcome. 
+Week 8: 
+    -Week eight, I learned how important documentation is. I tnot only helps us as the writers of the code so when can take breaks, and come back and undersand what we are doing with the code, but also for others so that if they want to work off some of your work or learn from it, they will understand it better. 
+    -I also learned about Git abd GitHub. Git is a version control system and tracks changes that can be shared with others. It allows for collaboration!
